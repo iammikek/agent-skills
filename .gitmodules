@@ -1,3 +1,6 @@
 [submodule "job-search-skill"]
 	path = job-search-skill
 	url = https://github.com/iammikek/job-search-skill.git
+[submodule "companies-house-skill"]
+	path = companies-house-skill
+	url = https://github.com/iammikek/companies-house-skill.git
