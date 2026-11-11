@@ -22,7 +22,7 @@ git submodule update --init --recursive
 
 ## Install one skill
 
-The skill folder inside the submodule is what Cursor and Claude Code load.
+Cursor and Claude Code load the folder called `skill`, inside the submodule.
 
 ### Cursor
 
